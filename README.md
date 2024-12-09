@@ -1,5 +1,5 @@
 # Colección Ejercicios STL Miguel Godoy
-https://github.com/MiguelGodoy06/ColeccionEjerciciosSTL-MiguelGodoy.git
+https://github.com/MiguelGodoy06/EjerciciosSTL-MiguelGodoy.git
 # Enunciado
 Ejercicio 1: Utilización completa de un espacio de nombres Escribe un programa que defina un espacio de nombres "Matemáticas" que contenga dos funciones: suma y resta. Luego, desde la función main, utiliza estas funciones.
 
